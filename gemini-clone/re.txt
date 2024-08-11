@@ -1,0 +1,7 @@
+npm create vite@latest
+cd gemini-clone
+npm run dev
+
+const apiKey="AIzaSyAryV1S5rBuze1-U68FtdL-OWZMea_ecwI"
+
+npm install --save @fortawesome/react-fontawesome @fortawesome/free-brands-svg-icons
