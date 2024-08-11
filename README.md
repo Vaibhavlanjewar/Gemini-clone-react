@@ -1,4 +1,4 @@
-﻿# Gemini-clone-react
+﻿# Gemini-clone
 >>npm create vite@latest <br>
 >>cd gemini-clone  <br>
 >>npm run dev  <br>
